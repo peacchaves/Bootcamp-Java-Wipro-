@@ -3,7 +3,7 @@ package week1;
 import java.util.Random;
 import java.util.Scanner;
 
-public class luckyGuess {
+public class luckGuess {
     public static void main(String[] args) {
 
         Random random = new Random();
