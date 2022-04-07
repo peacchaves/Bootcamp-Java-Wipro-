@@ -1,3 +1,5 @@
+package week2.DesafioCarrinhoDeCompra;
+
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -34,7 +36,7 @@ public class DesafioCarrinhoDeCompra {
                 System.out.printf("=========================================================" +
                         "\nOlá! Digite o código do produto desajado: ");
                 codigoProduto = entrada.nextInt();
-                codigoProduto -= codigoProduto - 1;
+                codigoProduto = codigoProduto -1;
                 if (codigoProduto < 10) {
                     System.out.print("Insira a quantidade desejada do produto: ");
                     qtdEscolhida = entrada.nextInt();
