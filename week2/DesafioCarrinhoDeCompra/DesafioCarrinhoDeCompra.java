@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Compra {
+public class DesafioCarrinhoDeCompra {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
