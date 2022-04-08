@@ -1,4 +1,4 @@
-package week2.DesafioCarrinhoDeCompra;
+package week1.carrinhoCompra;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
